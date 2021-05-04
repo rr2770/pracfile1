@@ -1,2 +1,2 @@
-for x in range(7)
-print('--')
+for x in range(7):
+    print(' ' * (7-x),'--' * x)
